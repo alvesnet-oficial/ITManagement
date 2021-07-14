@@ -27,3 +27,10 @@ Protection with Auto Containment
 SOC Management Platform
 Cloud-Native Network Detection and Response
 SOC-as-a-Service
+
+
+# Join the discussion on the ITarian Forum
+You are now a member of our forum partnership community where you can provide your insight. Start engaging in discussion boards as well as gain support from a vast network of partners and highly skilled technology developers.
+
+Use the subdomain/company name you setup in the last step, as your login forum.
+You can set your forum password here.
